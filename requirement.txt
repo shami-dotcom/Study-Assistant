@@ -1,0 +1,9 @@
+gradio[oauth,mcp]==6.0.0
+PyPDF2==3.0.1
+fpdf==1.7.2
+gtts==2.3.0
+SpeechRecognition==3.9.0
+python-pptx==0.6.21
+networkx==3.1
+matplotlib==3.7.1
+requests>=2.31.0
